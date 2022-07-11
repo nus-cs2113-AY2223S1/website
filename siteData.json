@@ -1,0 +1,13 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "admin/teamList.md",
+      "title": "tP Teams List",
+      "headings": {
+        "tp-teams": "tP Teams"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
