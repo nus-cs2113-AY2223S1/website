@@ -52,15 +52,24 @@
       "searchable": "no"
     }
   ],
+  "pagesExclude": ["**/*-fragment.md", "book/_site/**/*.*"],
   "intrasiteLinkValidation": {
     "enabled": false
   },
   "enableSearch": true,
   "headingIndexingLevel": 5,
-  "plugins": ["filterTags"],
+  "plugins": ["filterTags", "algolia"],
   "pluginsContext": {
     "filterTags" : {
       "tags": ["m--cs2113"]
+    },
+    "algolia": {
+      "apiKey": "3e2fd3c3b12a363309307794dce54969",
+      "appId": "3DU4XTBX4T",
+      "indexName": "nus-tic-cs",
+      "searchParameters": {
+        "facetFilters": [["site:nus-cs2113-ay2223s1.github.io"], ["tags:admin", "tags:se-book-adapted", "tags:schedule"]]
+      }
     }
   },
   "deploy": {
