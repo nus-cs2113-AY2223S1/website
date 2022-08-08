@@ -1,0 +1,274 @@
+2022-08-08T12:10:37.524Z - info: Website generation (lazy) started at 8:10:37 pm
+2022-08-08T12:10:43.212Z - info: Building assets...
+2022-08-08T12:10:47.936Z - info: Assets built
+2022-08-08T12:10:47.938Z - info: Generating landing page...
+2022-08-08T12:10:49.386Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-08-08T12:10:50.903Z - info: Site data built
+2022-08-08T12:10:50.904Z - info: Website generation (lazy) complete! Total build time: 13.418s
+2022-08-08T12:10:51.922Z - info: Serving "D:\Teaching\CS2113\_AY2223S1\website\_site" at http://127.0.0.1:8080
+2022-08-08T12:10:51.922Z - info: Press CTRL+C to stop ...
+2022-08-08T12:11:24.010Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week1\admin as some of its dependencies were changed since the last visit
+2022-08-08T12:11:26.412Z - info: Site data built
+2022-08-08T12:11:26.413Z - info: Lazy website regeneration complete! Total build time: 2.404s
+2022-08-08T12:11:29.809Z - debug:  
+2022-08-08T12:14:29.736Z - info: [8:14:29 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\_markbind\variables.md
+2022-08-08T12:14:29.736Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:14:29.737Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:14:29.738Z - info: 1. schedule/week1/admin
+2022-08-08T12:14:30.878Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-08-08T12:14:30.883Z - info: Rebuilding 1 pages
+2022-08-08T12:14:33.414Z - info: Site data built
+2022-08-08T12:14:33.415Z - info: Pages rebuilt
+2022-08-08T12:14:33.416Z - info: Website regeneration complete! Total build time: 2.666s
+2022-08-08T12:14:34.446Z - debug:  
+2022-08-08T12:22:30.060Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\index as some of its dependencies were changed since the last visit
+2022-08-08T12:22:30.578Z - info: Site data built
+2022-08-08T12:22:30.578Z - info: Lazy website regeneration complete! Total build time: 0.521s
+2022-08-08T12:22:40.952Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\timeline as some of its dependencies were changed since the last visit
+2022-08-08T12:22:46.519Z - info: Site data built
+2022-08-08T12:22:46.520Z - info: Lazy website regeneration complete! Total build time: 5.569s
+2022-08-08T12:26:14.715Z - info: [8:26:14 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\_module-CS2113\timetables-fragment.md
+2022-08-08T12:26:14.717Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:26:14.719Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:26:14.719Z - info: 1. schedule/week1/admin
+2022-08-08T12:26:15.733Z - info: Rebuilding 1 pages
+2022-08-08T12:26:18.320Z - info: Site data built
+2022-08-08T12:26:18.321Z - info: Pages rebuilt
+2022-08-08T12:26:18.322Z - info: Website regeneration complete! Total build time: 2.59s
+2022-08-08T12:26:19.733Z - debug:  
+2022-08-08T12:28:06.709Z - info: [8:28:06 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md
+2022-08-08T12:28:06.712Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:28:06.712Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:28:06.713Z - info: 1. schedule/week1/admin
+2022-08-08T12:28:07.727Z - info: Rebuilding 1 pages
+2022-08-08T12:28:08.393Z - error:  Template render error: (D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md) [Line 35, Column 4]
+  unknown block tag: else
+    at Object._prettifyError (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:207:25)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:144:16)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:290:20)
+2022-08-08T12:28:08.506Z - error:  Template render error: (D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md) [Line 35, Column 4]
+  unknown block tag: else
+    at Object._prettifyError (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at Environment.getTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:85:7)
+    at Environment.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:207:25)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:144:16)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:290:20)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:295:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:295:14
+    at Array.forEach (<anonymous>)
+2022-08-08T12:28:10.109Z - info: Site data built
+2022-08-08T12:28:10.109Z - info: Pages rebuilt
+2022-08-08T12:28:10.110Z - info: Website regeneration complete! Total build time: 2.384s
+2022-08-08T12:28:11.058Z - debug:  
+2022-08-08T12:28:41.545Z - info: [8:28:41 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md
+2022-08-08T12:28:41.546Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:28:41.546Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:28:41.547Z - info: 1. schedule/week1/admin
+2022-08-08T12:28:42.562Z - info: Rebuilding 1 pages
+2022-08-08T12:28:43.244Z - error:  Template render error: (D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md) [Line 35, Column 4]
+  unknown block tag: else
+    at Object._prettifyError (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:207:25)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:144:16)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:290:20)
+2022-08-08T12:28:43.364Z - error:  Template render error: (D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md) [Line 35, Column 4]
+  unknown block tag: else
+    at Object._prettifyError (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at Environment.getTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:85:7)
+    at Environment.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:207:25)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:144:16)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:290:20)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:295:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:21)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:295:14
+    at Array.forEach (<anonymous>)
+2022-08-08T12:28:45.098Z - info: Site data built
+2022-08-08T12:28:45.099Z - info: Pages rebuilt
+2022-08-08T12:28:45.100Z - info: Website regeneration complete! Total build time: 2.541s
+2022-08-08T12:28:46.186Z - debug:  
+2022-08-08T12:29:00.987Z - info: [8:29:00 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md
+2022-08-08T12:29:00.989Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:29:00.990Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:29:00.991Z - info: 1. schedule/week1/admin
+2022-08-08T12:29:02.011Z - info: Rebuilding 1 pages
+2022-08-08T12:29:04.015Z - info: Site data built
+2022-08-08T12:29:04.016Z - info: Pages rebuilt
+2022-08-08T12:29:04.017Z - info: Website regeneration complete! Total build time: 2.006s
+2022-08-08T12:29:05.632Z - debug:  
+2022-08-08T12:29:08.409Z - info: [8:29:08 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md
+2022-08-08T12:29:08.411Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:29:08.412Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:29:08.412Z - info: 1. schedule/week1/admin
+2022-08-08T12:29:09.428Z - info: Rebuilding 1 pages
+2022-08-08T12:29:12.170Z - info: Site data built
+2022-08-08T12:29:12.173Z - info: Pages rebuilt
+2022-08-08T12:29:12.184Z - info: Website regeneration complete! Total build time: 2.749s
+2022-08-08T12:29:13.905Z - debug:  
+2022-08-08T12:29:40.200Z - info: [8:29:40 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md
+2022-08-08T12:29:40.201Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:29:40.202Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:29:40.202Z - info: 1. schedule/week1/admin
+2022-08-08T12:29:41.216Z - info: Rebuilding 1 pages
+2022-08-08T12:29:43.068Z - info: Site data built
+2022-08-08T12:29:43.069Z - info: Pages rebuilt
+2022-08-08T12:29:43.070Z - info: Website regeneration complete! Total build time: 1.856s
+2022-08-08T12:29:44.285Z - debug:  
+2022-08-08T12:30:21.931Z - info: [8:30:21 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md
+2022-08-08T12:30:21.932Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:30:21.933Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:30:21.933Z - info: 1. schedule/week1/admin
+2022-08-08T12:30:22.940Z - info: Rebuilding 1 pages
+2022-08-08T12:30:25.519Z - info: Site data built
+2022-08-08T12:30:25.520Z - info: Pages rebuilt
+2022-08-08T12:30:25.520Z - info: Website regeneration complete! Total build time: 2.581s
+2022-08-08T12:30:26.534Z - debug:  
+2022-08-08T12:31:31.255Z - info: [8:31:31 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\lectures.md
+2022-08-08T12:31:31.256Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:31:31.257Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:31:31.257Z - info: 1. schedule/week1/admin
+2022-08-08T12:31:32.271Z - info: Rebuilding 1 pages
+2022-08-08T12:31:34.770Z - info: Site data built
+2022-08-08T12:31:34.771Z - info: Pages rebuilt
+2022-08-08T12:31:34.771Z - info: Website regeneration complete! Total build time: 2.502s
+2022-08-08T12:31:35.803Z - debug:  
+2022-08-08T12:33:36.167Z - info: [8:33:36 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\gradeBreakdown.md
+2022-08-08T12:33:36.168Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:33:36.169Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:33:36.170Z - info: 1. schedule/week1/admin
+2022-08-08T12:33:37.175Z - info: Rebuilding 1 pages
+2022-08-08T12:33:39.399Z - info: Site data built
+2022-08-08T12:33:39.400Z - info: Pages rebuilt
+2022-08-08T12:33:39.401Z - info: Website regeneration complete! Total build time: 2.228s
+2022-08-08T12:33:40.559Z - debug:  
+2022-08-08T12:35:50.192Z - info: [8:35:50 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\participation.md
+2022-08-08T12:35:50.193Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:35:50.194Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:35:50.194Z - info: 1. schedule/week1/admin
+2022-08-08T12:35:51.216Z - info: Rebuilding 1 pages
+2022-08-08T12:35:53.627Z - info: Site data built
+2022-08-08T12:35:53.628Z - info: Pages rebuilt
+2022-08-08T12:35:53.629Z - info: Website regeneration complete! Total build time: 2.417s
+2022-08-08T12:35:54.753Z - debug:  
+2022-08-08T12:43:29.742Z - info: [8:43:29 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\images\Why workload heavy.png
+2022-08-08T12:43:29.743Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:43:29.744Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:43:29.744Z - info: 1. schedule/week1/admin
+2022-08-08T12:43:30.776Z - info: Assets built
+2022-08-08T12:50:00.315Z - info: [8:50:00 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\images\Why workload heavy.png
+2022-08-08T12:50:00.316Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:50:00.316Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:50:00.317Z - info: 1. schedule/week1/admin
+2022-08-08T12:50:01.365Z - info: Assets built
+2022-08-08T12:51:09.271Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week1\topics as some of its dependencies were changed since the last visit
+2022-08-08T12:51:09.647Z - info: Site data built
+2022-08-08T12:51:09.647Z - info: Lazy website regeneration complete! Total build time: 0.377s
+2022-08-08T12:51:16.805Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week1\project as some of its dependencies were changed since the last visit
+2022-08-08T12:51:17.101Z - info: Site data built
+2022-08-08T12:51:17.102Z - info: Lazy website regeneration complete! Total build time: 0.297s
+2022-08-08T12:51:22.163Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week1\tutorial as some of its dependencies were changed since the last visit
+2022-08-08T12:51:22.357Z - info: Site data built
+2022-08-08T12:51:22.358Z - info: Lazy website regeneration complete! Total build time: 0.197s
+2022-08-08T12:53:25.927Z - info: [8:53:25 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\_markbind\layouts\header.md
+2022-08-08T12:53:25.928Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:53:25.929Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:53:25.930Z - info: 1. schedule/week1/tutorial
+2022-08-08T12:53:27.036Z - info: Rebuilding 1 pages
+2022-08-08T12:53:27.179Z - info: Site data built
+2022-08-08T12:53:27.180Z - info: Pages rebuilt
+2022-08-08T12:53:27.181Z - info: Website regeneration complete! Total build time: 0.145s
+2022-08-08T12:54:17.954Z - info: [8:54:17 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\_markbind\layouts\header.md
+2022-08-08T12:54:17.955Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:54:17.956Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:54:17.957Z - info: 1. schedule/week1/tutorial
+2022-08-08T12:54:19.242Z - info: Rebuilding 1 pages
+2022-08-08T12:54:19.447Z - info: Site data built
+2022-08-08T12:54:19.448Z - info: Pages rebuilt
+2022-08-08T12:54:19.448Z - info: Website regeneration complete! Total build time: 0.208s
+2022-08-08T12:54:32.511Z - info: [8:54:32 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\_markbind\layouts\header.md
+2022-08-08T12:54:32.513Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:54:32.513Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:54:32.514Z - info: 1. schedule/week1/tutorial
+2022-08-08T12:54:33.722Z - info: Rebuilding 1 pages
+2022-08-08T12:54:33.914Z - info: Site data built
+2022-08-08T12:54:33.915Z - info: Pages rebuilt
+2022-08-08T12:54:33.915Z - info: Website regeneration complete! Total build time: 0.202s
+2022-08-08T12:54:52.214Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\se-book-adapted\index as some of its dependencies were changed since the last visit
+2022-08-08T12:54:52.449Z - info: Site data built
+2022-08-08T12:54:52.450Z - info: Lazy website regeneration complete! Total build time: 0.24s
+2022-08-08T12:55:00.334Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\se-book-adapted\chapters\design as some of its dependencies were changed since the last visit
+2022-08-08T12:55:00.510Z - info: Site data built
+2022-08-08T12:55:00.511Z - info: Lazy website regeneration complete! Total build time: 0.178s
+2022-08-08T12:55:05.498Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\se-book-adapted\chapters\modeling as some of its dependencies were changed since the last visit
+2022-08-08T12:55:11.960Z - debug:  
+2022-08-08T12:55:11.960Z - debug:  
+2022-08-08T12:55:12.106Z - debug:  
+2022-08-08T12:55:12.106Z - debug:  
+2022-08-08T12:55:12.159Z - info: Site data built
+2022-08-08T12:55:12.160Z - info: Lazy website regeneration complete! Total build time: 6.665s
+2022-08-08T12:55:45.859Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week1\index as some of its dependencies were changed since the last visit
+2022-08-08T12:55:46.269Z - info: Site data built
+2022-08-08T12:55:46.270Z - info: Lazy website regeneration complete! Total build time: 0.411s
+2022-08-08T12:55:50.229Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week1\admin as some of its dependencies were changed since the last visit
+2022-08-08T12:55:52.882Z - info: Site data built
+2022-08-08T12:55:52.884Z - info: Lazy website regeneration complete! Total build time: 2.655s
+2022-08-08T12:55:54.092Z - debug:  
+2022-08-08T12:56:42.840Z - info: [8:56:42 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\textbooks.md
+2022-08-08T12:56:42.842Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:56:42.842Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:56:42.843Z - info: 1. schedule/week1/admin
+2022-08-08T12:56:43.854Z - info: Rebuilding 1 pages
+2022-08-08T12:56:46.422Z - info: Site data built
+2022-08-08T12:56:46.423Z - info: Pages rebuilt
+2022-08-08T12:56:46.423Z - info: Website regeneration complete! Total build time: 2.57s
+2022-08-08T12:56:47.390Z - debug:  
+2022-08-08T12:56:56.328Z - info: [8:56:56 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\admin\textbooks.md
+2022-08-08T12:56:56.329Z - info: Synchronizing opened pages list before reload
+2022-08-08T12:56:56.330Z - info: Current opened pages, from most-to-least recent:
+2022-08-08T12:56:56.331Z - info: 1. schedule/week1/admin
+2022-08-08T12:56:57.343Z - info: Rebuilding 1 pages
+2022-08-08T12:57:13.709Z - debug:  
+2022-08-08T12:57:13.723Z - info: Site data built
+2022-08-08T12:57:13.723Z - info: Pages rebuilt
+2022-08-08T12:57:13.724Z - info: Website regeneration complete! Total build time: 16.381s
+2022-08-08T13:45:52.291Z - info: Website generation started at 9:45:43 pm
+2022-08-08T13:46:05.399Z - info: Building assets...
