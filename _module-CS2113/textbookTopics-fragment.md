@@ -110,7 +110,7 @@
             name: "",
             level_three_topics: [
               {name: "miscellaneous", heading: "Miscellaneous", priority: "3"},
-              {name: "review", heading: "Review", priority: "4"}
+              {name: "review", heading: "Review", priority: "-1"}
             ]
           }
         ]
