@@ -1707,7 +1707,7 @@
             name: "",
             level_three_topics: [
               {name: "singleResponsibilityPrinciple", heading: "Single Responsibility Principle", priority: "3"},
-              {name: "openClosedPrinciple", heading: "Open-Closed Principle", priority: "-1"},
+              {name: "openClosedPrinciple", heading: "Open-Closed Principle", priority: "3"},
               {name: "liskovSubstitutionPrinciple", heading: "Liskov Substitution Principle", priority: "3"},
               {name: "interfaceSegregationPrinciple", heading: "Interface Segregation Principle", priority: "-1"},
               {name: "dependencyInversionPrinciple", heading: "Dependency Inversion Principle", priority: "-1"},
