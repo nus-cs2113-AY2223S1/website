@@ -2,7 +2,7 @@
 {% if current_week == "-1" %}
 <div class="w-100 p-1 bg-warning text-center d-print-none"><md>**This is a draft version of the website! The final version will be available near the start of the semester.**</md></div>
 {% endif %}{% if current_week in ["-1", "0", "1"] %}
-<div class="w-100 p-1 bg-success text-white text-center d-print-none"><md>This module will be delivered in _blended learning_ mode (i.e., a mix of online and F2F activities) this semester.</md></div>
+<div class="w-100 p-1 bg-success text-white text-center d-print-none"><md>All the module activities are scheduled to be _in-person_ activities this semester.</md></div>
 {% elseif current_week == "15" %}
 <div class="w-100 p-1 bg-warning text-center"><md>**This site is from a past semester! The current version will be [here](http://www.comp.nus.edu.sg/~{{ module | lower }}) when the new semester starts.**</md></div>
 </div>
