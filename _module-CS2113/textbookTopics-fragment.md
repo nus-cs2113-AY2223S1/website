@@ -575,7 +575,7 @@
       },
       {
         name: "topDownBottomUp",
-        priority: "-1",
+        priority: "4",
         level_two_topics: [
           {
             name: "",
