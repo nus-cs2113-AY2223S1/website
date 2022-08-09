@@ -942,7 +942,9 @@
       "title": "Design Approaches",
       "headings": {
         "multi-level-design": "Multi-level design",
+        "top-down-and-bottom-up-design": "Top-down and bottom-up design",
         "what": "What",
+        "what-2": "What",
         "design-approaches": "Design approaches"
       },
       "headingKeywords": {}
@@ -1180,7 +1182,6 @@
         "what-6": "What",
         "how": "How",
         "miscellaneous": "Miscellaneous",
-        "review": "Review",
         "object-oriented-programming": "Object-Oriented Programming"
       },
       "headingKeywords": {}
@@ -1190,6 +1191,7 @@
       "title": "Principles",
       "headings": {
         "single-responsibility-principle": "Single Responsibility Principle",
+        "open-closed-principle": "Open-Closed Principle",
         "liskov-substitution-principle": "Liskov Substitution Principle",
         "separation-of-concerns-principle": "Separation of Concerns Principle",
         "principles": "Principles"

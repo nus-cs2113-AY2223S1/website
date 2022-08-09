@@ -272,3 +272,27 @@
 2022-08-08T12:57:13.724Z - info: Website regeneration complete! Total build time: 16.381s
 2022-08-08T13:45:52.291Z - info: Website generation started at 9:45:43 pm
 2022-08-08T13:46:05.399Z - info: Building assets...
+2022-08-08T13:46:14.179Z - info: Assets built
+2022-08-08T13:46:14.182Z - info: Generating pages...
+2022-08-08T13:46:51.044Z - debug:  
+2022-08-08T13:46:51.045Z - debug:  
+2022-08-08T13:46:51.539Z - debug:  
+2022-08-08T13:46:51.540Z - debug:  
+2022-08-08T13:46:58.574Z - debug:  
+2022-08-08T13:46:58.636Z - debug:  
+2022-08-08T13:46:58.638Z - debug:  
+2022-08-08T13:46:58.892Z - debug:  
+2022-08-08T13:46:58.893Z - debug:  
+2022-08-08T13:47:00.715Z - debug:  
+2022-08-08T13:47:00.716Z - debug:  
+2022-08-08T13:47:00.717Z - debug:  
+2022-08-08T13:51:33.016Z - debug:  
+2022-08-08T13:52:00.854Z - debug:  
+2022-08-08T13:52:01.124Z - debug:  
+2022-08-08T13:52:15.068Z - info: Pages built
+2022-08-08T13:52:17.600Z - info: Site data built
+2022-08-08T13:52:17.604Z - info: Website generation complete! Total build time: 393.994s
+2022-08-08T13:52:17.607Z - info: Build success!
+2022-08-08T14:03:21.811Z - error: remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/nus-cs2113-AY2223S1/website.git/'
+
