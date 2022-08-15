@@ -87,3 +87,25 @@ fatal: Authentication failed for 'https://github.com/nus-cs2113-AY2223S1/website
 2022-08-09T04:51:18.540Z - debug:  
 2022-08-09T04:59:06.835Z - info: Website generation started at 12:59:04 pm
 2022-08-09T04:59:11.811Z - info: Building assets...
+2022-08-09T04:59:15.887Z - info: Assets built
+2022-08-09T04:59:15.888Z - info: Generating pages...
+2022-08-09T04:59:37.381Z - debug:  
+2022-08-09T04:59:37.382Z - debug:  
+2022-08-09T04:59:37.415Z - debug:  
+2022-08-09T04:59:42.767Z - debug:  
+2022-08-09T04:59:42.768Z - debug:  
+2022-08-09T04:59:42.769Z - debug:  
+2022-08-09T04:59:42.770Z - debug:  
+2022-08-09T04:59:42.770Z - debug:  
+2022-08-09T04:59:42.770Z - debug:  
+2022-08-09T04:59:42.771Z - debug:  
+2022-08-09T04:59:42.771Z - debug:  
+2022-08-09T04:59:42.771Z - debug:  
+2022-08-09T05:02:54.610Z - debug:  
+2022-08-09T05:03:12.944Z - debug:  
+2022-08-09T05:03:12.944Z - debug:  
+2022-08-09T05:03:21.871Z - info: Pages built
+2022-08-09T05:03:23.452Z - info: Site data built
+2022-08-09T05:03:23.453Z - info: Website generation complete! Total build time: 258.903s
+2022-08-09T05:03:23.453Z - info: Build success!
+2022-08-09T05:07:47.716Z - info: The website has been deployed at: https://nus-cs2113-ay2223s1.github.io/website
