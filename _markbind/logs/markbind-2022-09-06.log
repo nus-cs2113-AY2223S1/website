@@ -1,0 +1,60 @@
+2022-09-06T13:27:43.224Z - info: Website generation (lazy) started at 9:27:34 pm
+2022-09-06T13:27:49.983Z - info: Building assets...
+2022-09-06T13:27:55.488Z - info: Assets built
+2022-09-06T13:27:55.489Z - info: Generating landing page...
+2022-09-06T13:27:58.434Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-09-06T13:28:00.721Z - info: Site data built
+2022-09-06T13:28:00.722Z - info: Website generation (lazy) complete! Total build time: 26.191s
+2022-09-06T13:28:02.038Z - info: Serving "D:\Teaching\CS2113\_AY2223S1\website\_site" at http://127.0.0.1:8080
+2022-09-06T13:28:02.039Z - info: Press CTRL+C to stop ...
+2022-09-06T13:29:44.256Z - info: [9:29:44 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\_markbind\layouts\header.md
+2022-09-06T13:29:44.259Z - info: Synchronizing opened pages list before reload
+2022-09-06T13:29:44.259Z - info: Current opened pages, from most-to-least recent:
+2022-09-06T13:29:44.260Z - info: 1. index
+2022-09-06T13:29:45.976Z - info: Rebuilding 1 pages
+2022-09-06T13:29:47.907Z - info: [9:29:47 pm] Reload for file change: D:\Teaching\CS2113\_AY2223S1\website\_markbind\layouts\header.md
+2022-09-06T13:29:47.908Z - info: Synchronizing opened pages list before reload
+2022-09-06T13:29:47.909Z - info: Current opened pages, from most-to-least recent:
+2022-09-06T13:29:47.910Z - info: 1. index
+2022-09-06T13:29:48.086Z - info: Site data built
+2022-09-06T13:29:48.086Z - info: Pages rebuilt
+2022-09-06T13:29:48.087Z - info: Website regeneration complete! Total build time: 2.114s
+2022-09-06T13:29:49.068Z - info: Rebuilding 1 pages
+2022-09-06T13:29:49.765Z - info: Site data built
+2022-09-06T13:29:49.765Z - info: Pages rebuilt
+2022-09-06T13:29:49.765Z - info: Website regeneration complete! Total build time: 0.698s
+2022-09-06T13:30:08.743Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week5\project as some of its dependencies were changed since the last visit
+2022-09-06T13:30:10.048Z - info: Site data built
+2022-09-06T13:30:10.049Z - info: Lazy website regeneration complete! Total build time: 1.307s
+2022-09-06T13:30:22.828Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week6\index as some of its dependencies were changed since the last visit
+2022-09-06T13:30:23.782Z - info: Site data built
+2022-09-06T13:30:23.782Z - info: Lazy website regeneration complete! Total build time: 0.955s
+2022-09-06T13:30:26.553Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week6\project as some of its dependencies were changed since the last visit
+2022-09-06T13:30:27.728Z - info: Site data built
+2022-09-06T13:30:27.728Z - info: Lazy website regeneration complete! Total build time: 1.175s
+2022-09-06T13:30:49.097Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week7\index as some of its dependencies were changed since the last visit
+2022-09-06T13:30:49.952Z - info: Site data built
+2022-09-06T13:30:49.952Z - info: Lazy website regeneration complete! Total build time: 0.855s
+2022-09-06T13:30:52.772Z - info: Building D:\Teaching\CS2113\_AY2223S1\website\schedule\week7\project as some of its dependencies were changed since the last visit
+2022-09-06T13:30:54.154Z - info: Site data built
+2022-09-06T13:30:54.154Z - info: Lazy website regeneration complete! Total build time: 1.383s
+2022-09-06T13:32:52.308Z - info: Website generation started at 9:32:50 pm
+2022-09-06T13:32:57.177Z - info: Building assets...
+2022-09-06T13:33:03.159Z - info: Assets built
+2022-09-06T13:33:03.160Z - info: Generating pages...
+2022-09-06T13:33:24.531Z - debug:  
+2022-09-06T13:33:24.797Z - debug:  
+2022-09-06T13:33:29.194Z - debug:  
+2022-09-06T13:33:29.195Z - debug:  
+2022-09-06T13:33:29.195Z - debug:  
+2022-09-06T13:33:29.195Z - debug:  
+2022-09-06T13:33:29.196Z - debug:  
+2022-09-06T13:33:29.196Z - debug:  
+2022-09-06T13:33:29.196Z - debug:  
+2022-09-06T13:33:29.196Z - debug:  
+2022-09-06T13:33:29.196Z - debug:  
+2022-09-06T13:33:29.197Z - debug:  
+2022-09-06T13:36:37.435Z - error: [gh-pages c294e61] Site Update. [skip ci]
+
+2022-09-06T13:41:54.481Z - info: Website generation started at 9:41:50 pm
+2022-09-06T13:42:00.827Z - info: Building assets...
