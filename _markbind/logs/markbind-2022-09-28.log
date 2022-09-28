@@ -1,0 +1,19 @@
+2022-09-28T01:23:07.164Z - info: Website generation started at 9:23:01 am
+2022-09-28T01:23:14.743Z - info: Building assets...
+2022-09-28T01:23:20.731Z - info: Assets built
+2022-09-28T01:23:20.732Z - info: Generating pages...
+2022-09-28T01:23:44.946Z - debug:  
+2022-09-28T01:23:45.031Z - debug:  
+2022-09-28T01:23:45.031Z - debug:  
+2022-09-28T01:23:45.041Z - debug:  
+2022-09-28T01:23:45.042Z - debug:  
+2022-09-28T01:23:47.748Z - debug:  
+2022-09-28T01:23:47.748Z - debug:  
+2022-09-28T01:23:47.748Z - debug:  
+2022-09-28T01:23:47.749Z - debug:  
+2022-09-28T01:23:47.749Z - debug:  
+2022-09-28T01:23:47.749Z - debug:  
+2022-09-28T01:23:47.749Z - debug:  
+2022-09-28T01:25:13.855Z - error: ENOENT: no such file or directory, open 'D:\Teaching\CS2113\_AY2223S1\website\_site\_markbind\logs\markbind-2022-08-22.log'
+2022-09-28T01:25:13.390Z - info: Website generation started at 9:25:06 am
+2022-09-28T01:25:23.431Z - info: Building assets...

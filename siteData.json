@@ -335,6 +335,12 @@
       "src": "admin/teamList.md",
       "title": "tP Teams List",
       "headings": {
+        "cs2113t-w11": "CS2113T-W11",
+        "cs2113-w12": "CS2113-W12",
+        "cs2113-w13": "CS2113-W13",
+        "cs2113-t17": "CS2113-T17",
+        "cs2113-t18": "CS2113-T18",
+        "cs2113-f11": "CS2113-F11",
         "tp-teams": "tP Teams"
       },
       "headingKeywords": {}
