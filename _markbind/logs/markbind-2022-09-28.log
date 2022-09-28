@@ -17,3 +17,27 @@
 2022-09-28T01:25:13.855Z - error: ENOENT: no such file or directory, open 'D:\Teaching\CS2113\_AY2223S1\website\_site\_markbind\logs\markbind-2022-08-22.log'
 2022-09-28T01:25:13.390Z - info: Website generation started at 9:25:06 am
 2022-09-28T01:25:23.431Z - info: Building assets...
+2022-09-28T01:25:30.631Z - info: Assets built
+2022-09-28T01:25:30.633Z - info: Generating pages...
+2022-09-28T01:25:57.022Z - debug:  
+2022-09-28T01:25:57.027Z - debug:  
+2022-09-28T01:25:57.029Z - debug:  
+2022-09-28T01:25:57.036Z - debug:  
+2022-09-28T01:25:57.038Z - debug:  
+2022-09-28T01:25:57.040Z - debug:  
+2022-09-28T01:25:57.072Z - debug:  
+2022-09-28T01:25:57.083Z - debug:  
+2022-09-28T01:25:57.135Z - debug:  
+2022-09-28T01:26:01.184Z - debug:  
+2022-09-28T01:26:01.185Z - debug:  
+2022-09-28T01:26:01.185Z - debug:  
+2022-09-28T01:28:39.410Z - debug:  
+2022-09-28T01:28:55.811Z - debug:  
+2022-09-28T01:28:55.811Z - debug:  
+2022-09-28T01:29:04.811Z - info: Pages built
+2022-09-28T01:29:06.123Z - info: Site data built
+2022-09-28T01:29:06.123Z - info: Website generation complete! Total build time: 240.029s
+2022-09-28T01:29:06.123Z - info: Build success!
+2022-09-28T01:32:30.714Z - info: The website has been deployed at: https://nus-cs2113-ay2223s1.github.io/website
+2022-09-28T01:36:25.258Z - info: Website generation started at 9:36:20 am
+2022-09-28T01:36:30.919Z - info: Building assets...
