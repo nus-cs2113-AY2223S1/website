@@ -41,6 +41,6 @@ with(this){return _c('span',{staticClass:"badge bg-secondary  font-weight-normal
 with(this){return _c('div',[_c('div',{attrs:{"id":"demo"}},[_c('div',{attrs:{"tags":"m--cs2103 m--cs2113"}},[_c('ul',[_c('li',[_v("[One member] Run your app using the latest released version "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("v1.0")]),_v(" . Take screenshots of each available feature in action. Add those screenshots to the shared workspace.")]),_v(" "),_c('li',[_v("You can also add the screenshots to your "),_c('em',[_v("collaborative project notes")]),_v(" document with an appropriate heading e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("v1.0 features demo")]),_v(", and reuse them as necessary in the documentation.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Mon, 17 Oct 2022, 12:28:13 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Tue, 18 Oct 2022, 12:28:48 GMT+8]")])])])}
 }];
   
