@@ -1,0 +1,26 @@
+2022-11-15T05:22:17.409Z - info: Website generation started at 1:22:10 pm
+2022-11-15T05:22:22.293Z - info: Building assets...
+2022-11-15T05:22:27.201Z - info: Assets built
+2022-11-15T05:22:27.202Z - info: Generating pages...
+2022-11-15T05:22:51.503Z - debug:  
+2022-11-15T05:22:51.532Z - debug:  
+2022-11-15T05:22:51.906Z - debug:  
+2022-11-15T05:22:52.018Z - debug:  
+2022-11-15T05:22:56.581Z - debug:  
+2022-11-15T05:22:56.581Z - debug:  
+2022-11-15T05:22:56.582Z - debug:  
+2022-11-15T05:22:56.582Z - debug:  
+2022-11-15T05:22:56.582Z - debug:  
+2022-11-15T05:22:56.647Z - debug:  
+2022-11-15T05:22:56.656Z - debug:  
+2022-11-15T05:22:56.657Z - debug:  
+2022-11-15T05:25:33.457Z - debug:  
+2022-11-15T05:25:53.238Z - debug:  
+2022-11-15T05:25:53.239Z - debug:  
+2022-11-15T05:26:01.205Z - info: Pages built
+2022-11-15T05:26:03.101Z - info: Site data built
+2022-11-15T05:26:03.102Z - info: Website generation complete! Total build time: 232.502s
+2022-11-15T05:26:04.152Z - info: Serving "D:\Teaching\CS2113\_AY2223S1\website\_site" at http://127.0.0.1:8080
+2022-11-15T05:26:04.152Z - info: Press CTRL+C to stop ...
+2022-11-15T05:28:09.684Z - info: Website generation started at 1:27:56 pm
+2022-11-15T05:28:20.879Z - info: Building assets...
